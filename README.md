@@ -32,13 +32,10 @@
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- ⭐ AUTO-UPDATE STAR BADGE (SPACING FIXED) -->
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/stargazers">
     <img src="https://img.shields.io/github/stars/Adeel-Xtech/ADEEL-MD?style=for-the-badge&color=gold&logo=github" />
   </a>
 </p>
-
 <p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
 
 ---
@@ -46,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑
 <p align="center">
-  <a href="https://adeel-xtech1-4c8d84be2a96.herokuapp.com/">
+  <a href="https://adeel-xtech-97cef03b1167.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -60,10 +57,11 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD">
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
+  <a href="https://dashboard.render.com/web/new" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy-Render-FF0000?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
 </p>
-<p align="center">🪸 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 ᴏɴ ʜᴇʀᴏᴋᴜ 🐍🍷</p>
-
-<!-- ❌ RENDER SECTION DELETED AS REQUESTED -->
+<p align="center">🪸 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 ʜᴇʀᴏᴋᴜ & ʀᴀɴᴅᴇʀ 🐍🍷</p>
 
 ---
 
