@@ -120,6 +120,12 @@
       "required": false,
       "value": "false"
     },
+
+    "AUTO_VOICE": {
+      "description": "make it true if you want auto voice reply.",
+      "required": false,
+      "value": "false"
+    },
     
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
